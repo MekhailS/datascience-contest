@@ -1,4 +1,4 @@
-,dtime,fuellevel,ingection,speed,height,tachometer
+i,dtime,fuellevel,ingection,speed,height,tachometer
 0,2020-01-10 09:27:27,44.8,1,0,-9.3,1347
 1,2020-01-10 09:34:56,44.5,1,0,-9.3,2439
 2,2020-01-10 09:35:56,44.2,1,0,-9.3,689
