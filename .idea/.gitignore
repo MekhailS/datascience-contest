@@ -1,6 +1,11 @@
 # Default ignored files
 /shelf/
+/inspectionProfiles/
 /workspace.xml
+/vcs.xml
+/modules.xml
+/misc.xml
+/datascience-contest.iml
 # Datasource local storage ignored files
 /../../../../../../:\Users\MikhailS\PycharmProjects\datascience-contest\.idea/dataSources/
 /dataSources.local.xml
